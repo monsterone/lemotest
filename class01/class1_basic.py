@@ -4,7 +4,7 @@
 # @Email    : 945534456@qq.com
 # @File     : class1_basic.py
 
-##1.基础语法
+##【1】.基础语法
 
 #标识符：我们自己在写代码的时候，取的名字。命名的符号。
 #项目名 project name
