@@ -25,9 +25,23 @@ a = [1,0.02,'hello',[1,2,3],True]
  #append
 a = [1,0.02,'hello',[1,2,3],True]
 a.append("怪兽")
-# print("a列表的值:{0}".format(a))
+# print("a列表的值（追加）:{0}".format(a))
 
 #insert
 # 插入数据 想放哪儿放哪儿 但要指定位置--指定元素的索引值
 a.insert(2,"monster")
-print("a列表的值:{0}".format(a))
+print("a列表的值（插入）:{0}".format(a))
+
+#pop() 删除
+a.pop() #默认删除最后一个函数
+a.pop(2) #传入索引 就会删除指定索引位置的元素
+a.remove(1) #指定删除某个值
+print("a列表的值（删除）:{0}".format(a))
+
+res=a.pop()  #返回删除的值
+# print("a列表的返回值（删除）:{0}".format(res))
+
+# 修改  a[索引值]=新值
+a = [1,0.02,'hello',[1,2,3],True]
+a[2] = '怪兽'  #赋值运算
+print("a列表的值（修改）:{0}".format(a))
