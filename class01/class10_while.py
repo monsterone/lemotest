@@ -4,7 +4,7 @@
 # @Email    : 945534456@qq.com
 # @File     : class10_while.py
 
-#【9】while 控制循环
+#【10】while 控制循环
 #语法：
 #while 条件表达式：#逻辑 成员 比较 空数据 布尔值
     #代码块
@@ -13,7 +13,7 @@
 #如果True 那就执行代码块，执行完毕之后，继续判断-->如果True那就执行代码块，执行完毕之后->
 # 否则不进入代码块
 
-#防止代码进入死循环：加一个变量来控制循环次数
+#(1)防止代码进入死循环：加一个变量来控制循环次数
 # a = 1 #初始值
 # while a<=10:
 #     print("第{}次".format(a))
@@ -29,4 +29,4 @@ while a<=100:
 print("求和的结果是：",sum)
 
 
-#while 与 if语句搭配使用 break continue
+#(2)while 与 if语句搭配使用 break continue
