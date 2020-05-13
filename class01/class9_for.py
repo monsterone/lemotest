@@ -85,6 +85,19 @@ for i in range(5):
         print("*",end="")
     print()
 """
+#等腰三角形
+#xxxx*xxxx
+#xxx* *xxx
+#xx* * *xx
+#x* * * *x
+#* * * * *
 
+'''
+for i in range(1,6):
+   for j in  range(1,6-i):
+       print(" ",end="")
+   for k in range(1,i+1):
+        print("* ",end="")
 
-
+   print()
+'''

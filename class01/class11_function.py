@@ -56,9 +56,16 @@ def add(m,n,k=1):
         sum+=i
     return sum
 
-print(add(1,101))
+# print(add(1,101))
 
 
 #镜像文字(练习题)
 #字符串的 translate
 #swapcase
+
+#测试代码
+if __name__ == '__main__':  #主程序的执行入口 只有当你在当前模块下执行的时候 才会执行
+
+    print("开始执行")
+    print(add(1,101))
+    print("结束执行")
