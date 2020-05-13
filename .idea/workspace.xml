@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6001ef7f-b7c9-4a88-ac56-19155468342e" name="Default" comment="new add">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO/tools/case.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO/tools/read_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/.idea/API_AUTO2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/conf/case.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/learn/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/learn/http_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/learn/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/learn/tools_back/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/learn/tools_back/case.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/learn/tools_back/do_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/learn/tools_back/http_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/learn/tools_back/read_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/test_data/test_h1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/test_result/html_report/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/test_suite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/test_suite/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/test_suite/test_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/tools/do_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/tools/http_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/tools/project_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_AUTO2/tools/read_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class01/class14_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class01/class15_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class01/class16_file1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class01/class17_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class01/class22_interfect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class01/error.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class01/monster/mest2/bbbt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class01/monster/mest2/cc22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class01/monster/monsetr11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class01/monster/monster222.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class02_requests/study_road.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class02_unittest/class_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class02_unittest/class_fanshe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class02_unittest/math_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class02_unittest/test_demo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/class_ddt/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/class_ddt/class_ddt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/class_ddt/do_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/do_config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/do_config/case.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/do_config/class_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/do_config/read_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo/get_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo/test_demo_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo/test_http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo/test_suite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo/test_summer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo2/do_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo2/get_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo2/test_http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo2/test_suite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo2/test_summer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo3/get_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo3/test_http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo3/test_suite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo3/test_summer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo4/do_excel4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo4/get_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo4/test_http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo4/test_suite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demo4/test_summer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demoddt/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demoddt/case.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demoddt/do_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demoddt/get_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demoddt/test_http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demoddt/test_suite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class03_excel/test_demoddt/test_summer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04_project/log/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04_project/log/log_conf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04_project/log/log_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04_project/log/logtest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_h/home_work1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web01_base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web01_base/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web01_base/demo_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web01_base/demo_wait.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/lemotest$do_excel.coverage" NAME="do_excel Coverage Results" MODIFIED="1586607903754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class03_excel/test_demoddt" />
+    <SUITE FILE_PATH="coverage/lemotest$class21_object3.coverage" NAME="class21_object3 Coverage Results" MODIFIED="1585231429909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$Unittests_in_test_http_py.coverage" NAME="Unittests in test_http.py Coverage Results" MODIFIED="1586362764470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class03_excel/test_demoddt" />
+    <SUITE FILE_PATH="coverage/lemotest$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1586874983567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web01_base" />
+    <SUITE FILE_PATH="coverage/lemotest$class13_function2.coverage" NAME="class13_function2 Coverage Results" MODIFIED="1584461446536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$home_work1.coverage" NAME="home_work1 Coverage Results" MODIFIED="1584978915364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class02" />
+    <SUITE FILE_PATH="coverage/lemotest$test_suite__2_.coverage" NAME="test_suite (2) Coverage Results" MODIFIED="1586006347477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class03_excel/test_demo3" />
+    <SUITE FILE_PATH="coverage/lemotest$log_demo.coverage" NAME="log_demo Coverage Results" MODIFIED="1586624245211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class04_project/log" />
+    <SUITE FILE_PATH="coverage/lemotest$class15_file.coverage" NAME="class15_file Coverage Results" MODIFIED="1584720571740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$test_suite__1_.coverage" NAME="test_suite (1) Coverage Results" MODIFIED="1586005005180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class03_excel/test_demo2" />
+    <SUITE FILE_PATH="coverage/lemotest$class18_object.coverage" NAME="class18_object Coverage Results" MODIFIED="1585056362999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$http_request__1_.coverage" NAME="http_request (1) Coverage Results" MODIFIED="1585664618158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_AUTO/tools" />
+    <SUITE FILE_PATH="coverage/lemotest$test_suite.coverage" NAME="test_suite Coverage Results" MODIFIED="1586359273008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class03_excel/test_demoddt" />
+    <SUITE FILE_PATH="coverage/lemotest$class9_for.coverage" NAME="class9_for Coverage Results" MODIFIED="1584976765741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$class14.coverage" NAME="class14 Coverage Results" MODIFIED="1584542529582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$class16_file1.coverage" NAME="class16_file1 Coverage Results" MODIFIED="1584782557223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$home_work.coverage" NAME="home_work Coverage Results" MODIFIED="1584369837462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class02" />
+    <SUITE FILE_PATH="coverage/lemotest$class20_object2.coverage" NAME="class20_object2 Coverage Results" MODIFIED="1585060787145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$Unittests_for_class_ddt_TestMath.coverage" NAME="Unittests for class_ddt.TestMath Coverage Results" MODIFIED="1586015653412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class03_excel/class_ddt" />
+    <SUITE FILE_PATH="coverage/lemotest$class_01.coverage" NAME="class_01 Coverage Results" MODIFIED="1585667579288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class02_unittest" />
+    <SUITE FILE_PATH="coverage/lemotest$class_excel.coverage" NAME="class_excel Coverage Results" MODIFIED="1585987533811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class03_excel" />
+    <SUITE FILE_PATH="coverage/lemotest$read_config__1_.coverage" NAME="read_config (1) Coverage Results" MODIFIED="1586362311639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class03_excel/do_config" />
+    <SUITE FILE_PATH="coverage/lemotest$number_type.coverage" NAME="number_type Coverage Results" MODIFIED="1578584195029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$class3_str.coverage" NAME="class3_str Coverage Results" MODIFIED="1578671857487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$class5_tuple.coverage" NAME="class5_tuple Coverage Results" MODIFIED="1583851425121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$class4_list.coverage" NAME="class4_list Coverage Results" MODIFIED="1583849232889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$class6_dict.coverage" NAME="class6_dict Coverage Results" MODIFIED="1583852776212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$class_fanshe.coverage" NAME="class_fanshe Coverage Results" MODIFIED="1585837336040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class02_unittest" />
+    <SUITE FILE_PATH="coverage/lemotest$do_excel4.coverage" NAME="do_excel4 Coverage Results" MODIFIED="1586009492450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class03_excel/test_demo4" />
+    <SUITE FILE_PATH="coverage/lemotest$class17_exception.coverage" NAME="class17_exception Coverage Results" MODIFIED="1584798023670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$do_excel__1_.coverage" NAME="do_excel (1) Coverage Results" MODIFIED="1586353186767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class03_excel/test_demoddt" />
+    <SUITE FILE_PATH="coverage/lemotest$read_config.coverage" NAME="read_config Coverage Results" MODIFIED="1586361722864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_AUTO/tools" />
+    <SUITE FILE_PATH="coverage/lemotest$do_excel2.coverage" NAME="do_excel2 Coverage Results" MODIFIED="1586005848259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class03_excel/test_demo3" />
+    <SUITE FILE_PATH="coverage/lemotest$Unittests_for_class_01_TestMathMethod.coverage" NAME="Unittests for class_01.TestMathMethod Coverage Results" MODIFIED="1585667101841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class02_unittest" />
+    <SUITE FILE_PATH="coverage/lemotest$class07_operator.coverage" NAME="class07_operator Coverage Results" MODIFIED="1583939455179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$Unittests_for_test_http_TestHttp_test_normal.coverage" NAME="Unittests for test_http.TestHttp.test_normal Coverage Results" MODIFIED="1585995832604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class02_unittest/test_demo" />
+    <SUITE FILE_PATH="coverage/lemotest$class_02.coverage" NAME="class_02 Coverage Results" MODIFIED="1585750052691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class02_unittest" />
+    <SUITE FILE_PATH="coverage/lemotest$test.coverage" NAME="test Coverage Results" MODIFIED="1586440696152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_h" />
+    <SUITE FILE_PATH="coverage/lemotest$class11_function.coverage" NAME="class11_function Coverage Results" MODIFIED="1584542500989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$test_demo_api.coverage" NAME="test_demo_api Coverage Results" MODIFIED="1585997745988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class02_unittest/test_demo" />
+    <SUITE FILE_PATH="coverage/lemotest$http_request.coverage" NAME="http_request Coverage Results" MODIFIED="1585322249181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class02" />
+    <SUITE FILE_PATH="coverage/lemotest$Unittests_for_test_http_TestHttp_test_api.coverage" NAME="Unittests for test_http.TestHttp.test_api Coverage Results" MODIFIED="1586353818798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class03_excel/test_demoddt" />
+    <SUITE FILE_PATH="coverage/lemotest$class10_while.coverage" NAME="class10_while Coverage Results" MODIFIED="1584196895916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$class8_if.coverage" NAME="class8_if Coverage Results" MODIFIED="1584023527640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$class12_function1.coverage" NAME="class12_function1 Coverage Results" MODIFIED="1584460561000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+    <SUITE FILE_PATH="coverage/lemotest$class19_object1.coverage" NAME="class19_object1 Coverage Results" MODIFIED="1585059288388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class01" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="monster &lt;945534456@qq.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1brQJvnNu4GAvRxb56UoPFTvVX0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="AssertE&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web_frame_v1" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ZPython\python_hm\lemotest\class01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ZPython\python_hm\lemotest\class04_project\log" />
+      <recent name="D:\ZPython\python_hm\lemotest" />
+      <recent name="D:\ZPython\python_hm\lemotest\class03_excel\test_demoddt" />
+      <recent name="D:\ZPython\python_hm\lemotest\class03_excel\do_config" />
+      <recent name="D:\ZPython\python_hm\lemotest\API_AUTO\tools" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.demo1">
+    <configuration name="class_01" type="PythonConfigurationType" factoryName="Python">
+      <module name="lemotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\ZPython\python_hm\lemotest\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class02_unittest" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class02_unittest/class_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lemotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web01_base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web01_base/demo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="do_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lemotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class03_excel/test_demoddt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class03_excel/test_demoddt/do_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="log_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lemotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class04_project/log" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class04_project/log/log_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lemotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_h" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_h/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_http.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="lemotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class03_excel/test_demoddt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/class03_excel/test_demoddt/test_http.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.class_01" />
+      <item itemvalue="Python.do_excel" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.log_demo" />
+      <item itemvalue="Python.demo1" />
+      <item itemvalue="Python tests.Unittests in test_http.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo1" />
+        <item itemvalue="Python.log_demo" />
+        <item itemvalue="Python.do_excel" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python tests.Unittests in test_http.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6001ef7f-b7c9-4a88-ac56-19155468342e" name="Default" comment="" />
+      <created>1578578285834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578578285834</updated>
+      <workItem from="1589387666851" duration="885000" />
+    </task>
+    <task id="LOCAL-00001" summary="class5 提交">
+      <created>1578750711057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578750711059</updated>
+    </task>
+    <task id="LOCAL-00002" summary="class4 list学习（1）">
+      <created>1583769486877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583769486877</updated>
+    </task>
+    <task id="LOCAL-00003" summary="class list,tuple,dict学习">
+      <created>1583853256750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583853256750</updated>
+    </task>
+    <task id="LOCAL-00004" summary="class 闪出以前dict">
+      <created>1583855219383</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583855219383</updated>
+    </task>
+    <task id="LOCAL-00005" summary="class8 if">
+      <created>1584024225659</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584024225659</updated>
+    </task>
+    <task id="LOCAL-00006" summary="class9 for循环">
+      <created>1584173928049</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584173928049</updated>
+    </task>
+    <task id="LOCAL-00007" summary="class10 while">
+      <created>1584286072223</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584286072225</updated>
+    </task>
+    <task id="LOCAL-00008" summary="class10 while">
+      <created>1584539184686</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1584539184688</updated>
+    </task>
+    <task id="LOCAL-00009" summary="class  function">
+      <created>1584539249752</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584539249752</updated>
+    </task>
+    <task id="LOCAL-00010" summary="new add">
+      <created>1589388277026</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1589388277026</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_http_py - 2020.04.08 at 23h 19m 44s.xml">
+      <configuration name="Unittests in test_http.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_http_py - 2020.04.08 at 23h 20m 02s.xml">
+      <configuration name="Unittests in test_http.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_http_py - 2020.04.08 at 23h 20m 26s.xml">
+      <configuration name="Unittests in test_http.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_http_py - 2020.04.08 at 23h 20m 35s.xml">
+      <configuration name="Unittests in test_http.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_http_py - 2020.04.08 at 23h 20m 56s.xml">
+      <configuration name="Unittests in test_http.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_http_py - 2020.04.08 at 23h 22m 58s.xml">
+      <configuration name="Unittests in test_http.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_http_py - 2020.04.09 at 00h 13m 32s.xml">
+      <configuration name="Unittests in test_http.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_http_py - 2020.04.09 at 00h 14m 21s.xml">
+      <configuration name="Unittests in test_http.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_http_py - 2020.04.09 at 00h 18m 01s.xml">
+      <configuration name="Unittests in test_http.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_http_py - 2020.04.09 at 00h 19m 27s.xml">
+      <configuration name="Unittests in test_http.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="class5 提交" />
+    <MESSAGE value="class4 list学习（1）" />
+    <MESSAGE value="class list,tuple,dict学习" />
+    <MESSAGE value="class 闪出以前dict" />
+    <MESSAGE value="class8 if" />
+    <MESSAGE value="class9 for循环" />
+    <MESSAGE value="class10 while" />
+    <MESSAGE value="class  function" />
+    <MESSAGE value="new add" />
+    <option name="LAST_COMMIT_MESSAGE" value="new add" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="45" key="#Notifications" timestamp="1589387741984">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="45" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1589387741984" />
+    <state x="330" y="0" key="CommitChangelistDialog2" timestamp="1589388491075">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="330" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1589388491075" />
+    <state x="463" y="142" key="FileChooserDialogImpl" timestamp="1589387766565">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="142" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1589387766565" />
+    <state x="186" y="29" key="SettingsEditor" timestamp="1589388556509">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="186" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1589388556509" />
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2" timestamp="1589388296650">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1589388296650" />
+  </component>
+</project>
